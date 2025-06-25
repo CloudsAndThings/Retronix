@@ -1,0 +1,19 @@
+{
+  "name": "GyverHub-example",
+  "about": "Образец оформления репозитория проекта",
+  "version": "1.1",
+  "notes": "Исправлены мелкие баги",
+  "builds": 
+  [
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": 
+      [
+        {
+          "path": "https://raw.githubusercontent.com/GyverLibs/GyverHub-example/main/bin/firmware.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
