@@ -1,19 +1,4 @@
 {
-  "name": "Clouds_and_Things_Co",
-  "about": "Обновление ПО часов",
-  "version": "3.0.0",
-  "notes": "Описание в разработке",
-  "builds": 
-  [
-    {
-      "chipFamily": "ESP32-S3",
-      "parts": 
-      [
-        {
-          "path": "https://raw.githubusercontent.com/CloudsAndThings/Retronix/main/bin/Retronix.ino.bin",
-          "offset": 0
-        }
-      ]
-    }
-  ]
+  "ver": "3.0.0",
+  "notes": "Описание в разработке"
 }
